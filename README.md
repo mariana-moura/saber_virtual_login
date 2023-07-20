@@ -1,2 +1,2 @@
 # saber_virtual
-Plataforma digital de apreendizagem
+Plataforma digital de aprendizagem
